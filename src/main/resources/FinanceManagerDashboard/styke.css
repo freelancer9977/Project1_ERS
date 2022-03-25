@@ -1,0 +1,17 @@
+table, th, td {
+    border: 1px solid;
+}
+
+#title {
+
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+#container {
+
+    display: flex;
+    justify-content: space-evenly;
+
+}
